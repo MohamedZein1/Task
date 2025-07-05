@@ -1,2 +1,2 @@
 # Task
-Simple E-commerce system buying products
+Simple E-commerce system for buying products
