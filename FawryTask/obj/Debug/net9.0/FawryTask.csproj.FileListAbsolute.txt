@@ -1,0 +1,14 @@
+C:\Mohamed\C#\vs projects\Fawry\FawryTask\bin\Debug\net9.0\FawryTask.exe
+C:\Mohamed\C#\vs projects\Fawry\FawryTask\bin\Debug\net9.0\FawryTask.deps.json
+C:\Mohamed\C#\vs projects\Fawry\FawryTask\bin\Debug\net9.0\FawryTask.runtimeconfig.json
+C:\Mohamed\C#\vs projects\Fawry\FawryTask\bin\Debug\net9.0\FawryTask.dll
+C:\Mohamed\C#\vs projects\Fawry\FawryTask\bin\Debug\net9.0\FawryTask.pdb
+C:\Mohamed\C#\vs projects\Fawry\FawryTask\obj\Debug\net9.0\FawryTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mohamed\C#\vs projects\Fawry\FawryTask\obj\Debug\net9.0\FawryTask.AssemblyInfoInputs.cache
+C:\Mohamed\C#\vs projects\Fawry\FawryTask\obj\Debug\net9.0\FawryTask.AssemblyInfo.cs
+C:\Mohamed\C#\vs projects\Fawry\FawryTask\obj\Debug\net9.0\FawryTask.csproj.CoreCompileInputs.cache
+C:\Mohamed\C#\vs projects\Fawry\FawryTask\obj\Debug\net9.0\FawryTask.dll
+C:\Mohamed\C#\vs projects\Fawry\FawryTask\obj\Debug\net9.0\refint\FawryTask.dll
+C:\Mohamed\C#\vs projects\Fawry\FawryTask\obj\Debug\net9.0\FawryTask.pdb
+C:\Mohamed\C#\vs projects\Fawry\FawryTask\obj\Debug\net9.0\FawryTask.genruntimeconfig.cache
+C:\Mohamed\C#\vs projects\Fawry\FawryTask\obj\Debug\net9.0\ref\FawryTask.dll
